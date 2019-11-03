@@ -6,3 +6,22 @@ ul {list-style-type: none;}
    background-repeat: no-repeat;
    background-size: cover;
 }
+.image{
+  width: 90%;
+  height: 50%;
+}
+
+
+nav{
+  background: -webkit-linear-gradient(left, #ed1c24, #ed1c24, #b4e61c,#b4e61c, #b4e61c, #99d9ea, #99d9ea,  #99d9ea,#fff200,  #fff200);
+    width: 100%;
+}
+
+p a {
+    text-decoration: underline;
+}
+
+ p a:hover {
+    color: #99d9ea;
+    text-decoration: underline;
+}
